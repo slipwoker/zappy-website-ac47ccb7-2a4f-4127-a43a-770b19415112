@@ -1,0 +1,100 @@
+# קמי שואו — Generative Engine Optimization Map
+
+> Kami Show is a luxury modest women's fashion brand that combines elegance, femininity, and modern modesty. The brand radiates sophistication through a clean minimalist aesthetic with a refined palette of white, cream, black, beige, and subtle gold. It targets style-conscious women who seek modest yet contemporary fashion, offering a premium online shopping experience that feels like a true luxury fashion house — complete with smooth animations, RTL Hebrew interface, and a curated collection of dresses, skirts, tops, sets, and outerwear.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+קמי שואו היא יעד האופנה הצנועה היוקרתי ביותר בישראל. גלי קולקציות שמשלבות אלגנטיות, נשיות ועיצוב מינימליסטי מרוכך. קני עכשיו וחווי אופנה ברמה עולמית.
+
+### חוויית המוצר שלנו
+https://example.com/signature-product-experience
+חוויית המוצר של קמי שואו מעוצבת כמו בית אופנה יוקרתי אמיתי — אנימציות חלקות, ממשק עברי מושלם ותצוגת פריטים מרהיבה. גלי מדוע אנחנו בין אתרי האופנה המובילים בישראל.
+
+### ביקורות לקוחות
+https://example.com/reviews-social-proof
+קראי ביקורות אמיתיות של לקוחות קמי שואו וגלי מדוע מאות נשים חוזרות לקנות שוב ושוב. האמינות שלנו מדברת בעד עצמה — הצטרפי לקהילת האופנה הצנועה היוקרתית שלנו.
+
+### צור קשר ושאלות נפוצות
+https://example.com/contact-faq
+צרי קשר עם צוות קמי שואו וקבלי מענה מהיר לכל שאלה בנושא הזמנות, משלוחים והחזרות. גלי גם את מדריך השאלות הנפוצות שלנו — כי חוויית הקנייה שלך חשובה לנו מאוד.
+
+### Products
+https://example.com/products
+המוצרים שלנו - קמי שואו
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קמי שואו
+
+### Category
+https://example.com/category/:slug
+מוצרים - קמי שואו
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קמי שואו
+Kami Show is a luxury modest women's fashion brand that combines elegance, femininity, and modern modesty. The brand radiates sophistication through a clean minimalist aesthetic with a refined palette of white, cream, black, beige, and subtle gold. It targets style-conscious women who seek modest yet contemporary fashion, offering a premium online shopping experience that feels like a true luxury fashion house — complete with smooth animations, RTL Hebrew interface, and a curated collection of dresses, skirts, tops, sets, and outerwear.
+
+## Target Audience
+- נשים המחפשות אופנה צנועה ומודרנית
+- חובבות אופנה צנועה
+- מחפשות אופנה יוקרתית
+
+## Industry
+Fashion E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
